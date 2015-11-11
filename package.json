@@ -11,11 +11,9 @@
     "url": "git+https://github.com/javiercejudo/plus-arbitrary-precision.git"
   },
   "keywords": [
-    "feature scaling",
-    "normalisation",
-    "normalization",
-    "scale",
-    "rescale"
+    "precision",
+    "arbitrary precision",
+    "arbitrary-precision-op"
   ],
   "author": "Javier Cejudo <javier@javiercejudo.com> (http://www.javiercejudo.com)",
   "license": "MIT",
