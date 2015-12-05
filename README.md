@@ -18,7 +18,7 @@ Addition abstraction for [core-arbitrary-precision](https://github.com/javiercej
 
 ```js
 var adapter = require('floating-adapter');
-var CoreDecimal = require('linear-arbitrary-precision')(adapter);
+var CoreDecimal = require('core-arbitrary-precision')(adapter);
 var Decimal = require('plus-arbitrary-precision')(CoreDecimal);
 
 new Decimal('2').plus(new Decimal('3')).valueOf(); // => 5
